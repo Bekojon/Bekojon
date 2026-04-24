@@ -1,58 +1,56 @@
-<h1 align="center">🚀 Bekojon | Designer & Web Developer</h1>
-<h3 align="center">I help creators & businesses stand out with high-converting visuals and modern web solutions</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Bekojon&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<h1 align="center">🚀 Bekojon</h1>
+<h3 align="center">🎬 Content Creator | 💻 Web Developer | 🎨 Designer</h3>
 
 <p align="center">
   <a href="https://bekojon.vercel.app">
     <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge" />
   </a>
   <a href="https://instagram.com/_alisherov_bekzod_">
-    <img src="https://img.shields.io/badge/📩 DM Me-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/📩 Contact-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧠 Who I Am  
+## 🧠 About Me  
 
-I am a **Professional Designer & Web Developer with 4+ years of experience** helping:  
-🎬 YouTubers grow faster  
-💼 Brands look more professional  
-🚀 Startups launch clean & modern products  
+🎨 Professional **Designer & Web Developer** with **4+ years of experience**  
 
-I don’t just design or code —  
-I create **digital experiences that attract attention and convert viewers into clients**.
+🔥 Specialized in **YouTube thumbnails & branding** (high CTR focus)  
+💻 Building **modern, fast & scalable web apps**  
+🎯 Focused on **results, not just visuals**  
 
----
-
-## 🔥 What I Can Do For You  
-
-### 🎨 High-Converting Design  
-✔ YouTube Thumbnails (CTR-focused)  
-✔ Profile Branding (logos, banners)  
-✔ Visual Identity  
-
-### 💻 Web Development  
-✔ Landing Pages (fast & modern)  
-✔ Portfolio Websites  
-✔ Full Web Apps (idea → deployment)  
+🧩 I create digital products that are:  
+⚡ Clean  
+🚀 High-performance  
+💎 Visually strong  
 
 ---
 
-## 📊 Why Clients Choose Me  
+## 🎬 Featured Video  
 
-⚡ Fast delivery without losing quality  
-🎯 Focus on results (not just visuals)  
-🧠 Strong understanding of audience psychology  
-💎 Clean, modern & professional design style  
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID">
+    <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" width="80%" />
+  </a>
+</p>
+
+<p align="center">
+  ▶️ Watch on YouTube
+</p>
 
 ---
 
-## 🧩 Featured Work  
+## 🚀 Projects  
 
-### 🌐 Design Portfolio  
+🌐 **Design Portfolio**  
 👉 https://bekojon.vercel.app  
 
-### ⚙️ UzTiers Project  
+⚙️ **UzTiers**  
 👉 https://uztiers.vercel.app  
 
 ---
@@ -60,7 +58,7 @@ I create **digital experiences that attract attention and convert viewers into c
 ## 🛠️ Tech Stack  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,kotlin,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,kotlin" />
 </p>
 
 <p>
@@ -69,32 +67,50 @@ I create **digital experiences that attract attention and convert viewers into c
 
 ---
 
-## 🌐 Contact Me  
+## 🌐 Socials  
 
-<p>
+<p align="center">
   <a href="https://instagram.com/_alisherov_bekzod_">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://img.icons8.com/color/48/instagram-new.png"/>
   </a>
   <a href="https://discord.com/users/bekojon">
-    <img src="https://skillicons.dev/icons?i=discord" />
+    <img src="https://img.icons8.com/color/48/discord--v2.png"/>
   </a>
   <a href="https://x.com/bekojon1">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+    <img src="https://img.icons8.com/color/48/twitter--v1.png"/>
   </a>
   <a href="https://youtube.com/@bekojonuz">
-    <img src="https://skillicons.dev/icons?i=youtube" />
+    <img src="https://img.icons8.com/color/48/youtube-play.png"/>
   </a>
 </p>
 
-💬 Discord: **bekojon**
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bekojon&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=bekojon&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekojon&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bekojon&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
 ## 📩 Let’s Work Together  
 
-If you need:  
-🔥 Eye-catching thumbnails  
-🚀 A modern website  
-🎯 Better branding & online presence  
+🔥 Need high-quality thumbnails?  
+🚀 Want a modern website?  
+🎯 Need strong branding?  
 
-👉 **Send me a message — let’s build something amazing.**
+👉 **DM me — let’s build something powerful.**
