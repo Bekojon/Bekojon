@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Bekojon&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
 <h1 align="center">🚀 Bekojon</h1>
 <h3 align="center">🎬 Content Creator | 💻 Web Developer | 🎨 Designer</h3>
 
@@ -18,40 +14,40 @@
 
 ## 🧠 About Me  
 
-🎨 Professional **Designer & Web Developer** with **4+ years of experience**  
+🎨 I am a **Professional Designer and Web Developer** with over **4+ years of hands-on experience** in creating high-impact digital visuals and modern web solutions.
 
-🔥 Specialized in **YouTube thumbnails & branding** (high CTR focus)  
-💻 Building **modern, fast & scalable web apps**  
-🎯 Focused on **results, not just visuals**  
+🖌️ My strongest expertise is in **YouTube thumbnail design & profile branding**, where I combine:
+• 🎯 Creativity  
+• 🧠 Audience psychology  
+• 🎬 Visual storytelling  
 
-🧩 I create digital products that are:  
-⚡ Clean  
-🚀 High-performance  
-💎 Visually strong  
+to create eye-catching designs that increase engagement and conversion rates.
+
+💻 Alongside design, I actively develop **modern web applications**, focusing on:
+• ⚡ Clean and scalable architecture  
+• 🚀 High performance  
+• 🎯 User-centered experience  
+• 🧩 Simple but powerful UI/UX systems  
+
+I don’t just write code — I build **complete digital products** that are functional, fast, and visually polished.
+
+🎮 I am also a **Gaming Content Creator**, producing engaging videos on my YouTube channel:
+👉 youtube.com/@BekojonUZ  
+
+where I combine:
+• 🎥 Editing skills  
+• 🎮 Gaming content  
+• 📈 Audience engagement strategies  
 
 ---
 
-## 🎬 Featured Video  
+## 💡 Core Strengths  
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID">
-    <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" width="80%" />
-  </a>
-</p>
-
-<p align="center">
-  ▶️ Watch on YouTube
-</p>
-
----
-
-## 🚀 Projects  
-
-🌐 **Design Portfolio**  
-👉 https://bekojon.vercel.app  
-
-⚙️ **UzTiers**  
-👉 https://uztiers.vercel.app  
+🔥 Advanced YouTube thumbnail & branding design  
+💻 Full-cycle web development (idea → deployment)  
+🎨 Strong UI/UX and visual composition sense  
+⚡ Fast execution with high attention to detail  
+📊 Consistency and improvement mindset  
 
 ---
 
@@ -95,14 +91,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekojon&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bekojon&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
