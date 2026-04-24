@@ -1,45 +1,91 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bekojon
-<h3 align="center">⚙️ Web Programmer 🎨 Designer 🎮 Content Creator</h3>
-================================================================================================================================
+<h1 align="center">Hey 👋 I'm Bekojon</h1>
+<h3 align="center">🎬 Content Creator | 💻 Web Developer | 🎨 Designer</h3>
 
-I am a Professional Designer and Web Developer with over 4 years of hands-on experience in creating high-impact digital visuals and modern web solutions. My design expertise is focused on YouTube thumbnails and profile branding, where I combine creativity, audience psychology, and visual storytelling to deliver eye-catching and high-conversion results.
-
-Alongside design, I actively build web applications, focusing on clean architecture, performance, and user-centered experiences. I approach development not just as coding, but as crafting complete digital products that are scalable, efficient, and visually refined.
-
-I am also a Gaming Content Creator, producing engaging and entertaining content on my YouTube channel: youtube.com/@BekojonUZ — where I combine creativity, editing, and audience engagement strategies.
-
-My core strengths include:
-
-• Advanced thumbnail & branding design
-
-• Full-cycle web development (from idea to deployment)
-
-• Strong sense of UI/UX and visual balance
-
-• Consistency, speed, and attention to detail
-
-I am constantly improving my skills, exploring new technologies, and pushing the boundaries of both design and development to create impactful digital experiences.
-
-* 🌍  I'm based in Uzbekistan
-* 🖥️  See my portfolio at [Design Portfolio](http://bekojon.vercel.app)
-* ✉️  You can contact me at [bekzodalisherov888@gmail.com](mailto:bekzodalisherov888@gmail.com)
-* 🚀  I'm currently working on [UzTiers](http://UzTiers.vercel.app)
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" alt="Swift" title="Swift" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;Building+cool+projects;Design+%2B+Code+%2B+Creativity" />
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Bekojon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/Bekojon1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.twitch.tv/bekojon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" title="Twitch" /> </picture> </a> <a href="https://www.youtube.com/@BekojonUZ" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://discord.com/users/Bekojon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-### Badges
+## 🧠 About Me  
 
-<b>My GitHub Stats</b>
+🎨 I am a **Professional Designer & Web Developer** with **4+ years of experience** in creating high-impact digital visuals and modern web solutions.  
 
-<a href="http://www.github.com/Bekojon"><img src="https://github-readme-stats.vercel.app/api?username=Bekojon&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=6366f1&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="Bekojon's GitHub stats" /></a>
+🔥 My design expertise focuses on **YouTube thumbnails & profile branding**, combining **creativity, audience psychology, and visual storytelling**.  
 
-<a href="http://www.github.com/Bekojon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bekojon&stroke=6366f1&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=6366f1&currStreakLabel=6366f1&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
+💻 I build **modern web applications** with focus on:  
+⚡ Clean architecture  
+🚀 Performance  
+🎯 User experience  
 
-<b>Top Repositories</b>
+🧩 I create **scalable and visually refined digital products**.  
 
-<div width="100%" align="center"><a href="https://github.com/Bekojon/portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bekojon&repo=portfolio&title_color=6366f1&text_color=6366f1&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/Bekojon/Uztiers" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bekojon&repo=Uztiers&title_color=6366f1&text_color=6366f1&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+🎮 Gaming Content Creator →  
+👉 https://youtube.com/@bekojonuz  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,kotlin" />
+</p>
+
+### 🎨 Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=ps,pr,ae,vscode" />
+</p>
+
+---
+
+## 🚀 Projects  
+
+🌐 **Design Portfolio**  
+👉 https://bekojon.vercel.app  
+
+⚙️ **UzTiers**  
+👉 https://uztiers.vercel.app  
+
+---
+
+## 🌐 Socials  
+<p>
+  <a href="https://instagram.com/_alisherov_bekzod_">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://discord.com/users/bekojon">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://x.com/bekojon1">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://youtube.com/@bekojonuz">
+    <img src="https://skillicons.dev/icons?i=youtube" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bekojon&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=bekojon&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekojon&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bekojon&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## ⚡ Quote  
+> “Design it. Build it. Make it unforgettable.” 🚀
